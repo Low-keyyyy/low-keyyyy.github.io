@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://lowkeyyyy.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://low-keyyyy.github.io/sitemap.xml
