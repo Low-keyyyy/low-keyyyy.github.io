@@ -1,0 +1,10 @@
+/*******************************************************************************
+ * Styles for the customized fonts.
+ ******************************************************************************/
+$font-path: "../fonts/";
+
+@font-face {
+    font-family: "Courgette";
+    src: url(#{$font-path}Courgette-Regular.ttf) format('truetype');
+};
+
