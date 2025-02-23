@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
+        },{id: "nav-material",
+          title: "material",
+          description: "A growing collection of your cool projects.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/material/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "A brief preview of my github repositories. Please make sure that you can connect to the Github!",
@@ -417,7 +424,17 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-the-2023-national-college-entrance-examination-concluded",
+    },{id: "materials-a-post-with-images",
+          title: 'a post with images',
+          description: "this is what included images could look like",
+          section: "Materials",handler: () => {
+              window.location.href = "/materials/images/";
+            },},{id: "materials-a-post-with-redirect",
+          title: 'a post with redirect',
+          description: "you can also redirect to assets like pdf",
+          section: "Materials",handler: () => {
+              window.location.href = "/materials/redirect/";
+            },},{id: "news-the-2023-national-college-entrance-examination-concluded",
           title: 'The 2023 National College Entrance Examination concluded.',
           description: "",
           section: "News",},{id: "news-admitted-to-nanjing-university-college-life-begins",
