@@ -9,3 +9,12 @@ $font-path: "../fonts/";
     src: url(#{$font-path}Courgette-Regular.ttf) format('truetype');
 };
 
+@font-face {
+    font-family: "NotoSerif";
+    src: url(#{$font-path}NotoSerif.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "NotoSerif-Italic";
+    src: url(#{$font-path}NotoSerif-Italic.ttf) format('truetype');
+}

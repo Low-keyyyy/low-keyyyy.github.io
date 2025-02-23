@@ -50,5 +50,8 @@ As you can see, the title of my blog is "Lowkeyyyy", which is the online usernam
 At the same time, the website’s icon is a cartoon picture of television. This is because the abbreviation of my name happens to be exactly the same as abbreviation for "television" in Chiniese, so many friends of mine use it as a nickname for me. Of course, I also find "television" to be quite cute personally.
 
 ##### **Contact Me**
-- **Email:**  231250042(at)smail(dot)nju(dot)edu(dot)cn
+- **NJU Email:**  231250042(at)smail(dot)nju(dot)edu(dot)cn
+- **Google Email:** dsj2431910949(at)google(dot)com
 - **Post:**  No.22, Hankou Road, Nanjing, 210093.
+
+---

@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A brief preview of my github repositories.
+description: A brief preview of my github repositories. Please make sure that you can connect to the Github!
 nav: true
 nav_order: 3
 ---
