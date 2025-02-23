@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "A brief preview of my github repositories.",
+          description: "A brief preview of my github repositories. Please make sure that you can connect to the Github!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -417,18 +417,18 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_100/";
-            },},{id: "news-the-2023-national-college-entrance-examination-concluded",
+    },{id: "news-the-2023-national-college-entrance-examination-concluded",
           title: 'The 2023 National College Entrance Examination concluded.',
           description: "",
           section: "News",},{id: "news-admitted-to-nanjing-university-college-life-begins",
           title: 'Admitted to Nanjing University. College life begins!😄',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-the-lowkeyyyy-39-s-blog-is-born",
+          title: 'The Lowkeyyyy&amp;#39;s blog is born!🎉',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
