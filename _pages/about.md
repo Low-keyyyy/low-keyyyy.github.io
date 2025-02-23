@@ -35,7 +35,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+##### Bio
 Since September 2023, I have been studying as an undergraduate student at [Nanjing University](https://www.nju.edu.cn/), Jiangsu, China, majoring in [Software Engineering](https://software.nju.edu.cn/). Enthralled by the elegance of code and algorithms, I harbor a profound interest in computer programming and software development, seeking to leverage computational power to transcend the limits of my abilities and realize an array of creative and captivating ideas. Though I may not be gifted in software engineering, like Winston Churchill, "I have nothing to offer but blood, toil, tears and sweat."
 
 With two years' learning in the college, I have acquired a fundamental knowledge of computer science. At present, I am interested in fields such as machine learning, cybersecurity, distributed computing, secure multi-party computation, etc. Exploring some of these fields in depth is on the horizon.
