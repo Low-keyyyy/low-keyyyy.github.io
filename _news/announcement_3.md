@@ -8,7 +8,7 @@ related_posts: false
 
 Today the Lowkeyyyy's blog is born!🎉 It feels great to have my first website of my own in my life!🤩🤩
 
-Here is some basic information and purpose of this website below.⬇️
+Here are some basic information and the purpose of this website below.⬇️
 
 ---
 
