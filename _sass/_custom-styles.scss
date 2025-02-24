@@ -3,7 +3,7 @@
  ******************************************************************************/
 
 
-.name-title {
+ .name-title {
     font-family: 'Courgette';
     font-weight: 400;
 }
@@ -12,3 +12,41 @@
     font-family: 'NotoSerif-Italic';
     font-weight: 600;
 }
+
+.material-list {
+    margin: 0;
+    margin-bottom: 40px;
+    padding: 0;
+  
+    li {
+      list-style: none;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+
+      .post-meta {
+        color: var(--global-text-color-light);
+        font-size: 0.875rem;
+        margin-bottom: 0;
+      }
+  
+      .post-tags {
+        color: var(--global-text-color-light);
+        font-size: 0.875rem;
+        padding-top: 0.25rem;
+        padding-bottom: 0;
+      }
+  
+      a {
+        color: var(--global-text-color);
+        text-decoration: none;
+  
+        &:hover {
+          color: var(--global-theme-color);
+        }
+      }
+  
+      mjx-container[jax="CHTML"][display="true"] {
+        display: unset;
+      }
+    }
+  }
