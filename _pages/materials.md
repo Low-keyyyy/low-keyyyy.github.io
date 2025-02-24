@@ -19,9 +19,9 @@ nav_order: 2
     {% assign year = post.date | date: "%Y" %}
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
-    <h5>
+    <p>
       <a class="post-title material-name" href="{{ material.redirect | relative_url }}">{{ material.title }}</a>
-    </h5>
+    </p>
   </li>
   {% endfor %}
 </ul>
