@@ -3,7 +3,7 @@ layout: distill
 title: The Probability Lifesaver
 description: A study note about the book, which is the Princeton Textbook.
 tags: distill formatting
-giscus_comments: true
+giscus_comments: False
 date: 2025-02-24
 featured: true
 mermaid:
