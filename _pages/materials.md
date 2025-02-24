@@ -2,7 +2,7 @@
 layout: materials
 permalink: /materials/
 title: materials
-description: A growing collection of your cool projects.
+description: A collection for learning materials. Most are related to CS currently.
 nav: true
 nav_order: 2
 ---
@@ -20,7 +20,7 @@ nav_order: 2
     {% assign tags = post.tags | join: "" %}
     {% assign categories = post.categories | join: "" %}
     <h5>
-      <a class="post-title" href="{{ material.redirect | relative_url }}">{{ material.title }}</a>
+      <a class="post-title material-name" href="{{ material.redirect | relative_url }}">{{ material.title }}</a>
     </h5>
   </li>
   {% endfor %}

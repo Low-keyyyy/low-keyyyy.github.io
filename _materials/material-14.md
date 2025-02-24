@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HeadFirstPython_cn
+title: Head First Python_cn
 date: 2025-02-24 10:00:00
 description: PDF of materials.
 redirect: /assets/pdf/HeadFirstPython_cn.pdf

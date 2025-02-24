@@ -20,8 +20,8 @@
   
     li {
       list-style: none;
-      padding-top: 0.5rem;
-      padding-bottom: 0.5rem;
+      padding-top: 0.4rem;
+      padding-bottom: 0.4rem;
 
       .post-meta {
         color: var(--global-text-color-light);
@@ -49,4 +49,8 @@
         display: unset;
       }
     }
-  }
+}
+
+.material-name {
+  font-family: 'Kalam';
+}

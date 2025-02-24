@@ -18,3 +18,19 @@ $font-path: "../fonts/";
     font-family: "NotoSerif-Italic";
     src: url(#{$font-path}NotoSerif-Italic.ttf) format('truetype');
 }
+
+@font-face {
+    font-family: "ShantellSan";
+    src: url(#{$font-path}ShantellSan.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Kalam";
+    src: url(#{$font-path}Kalam-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: "Caveat";
+    src: url(#{$font-path}Caveat.ttf) format('truetype');
+}
+
