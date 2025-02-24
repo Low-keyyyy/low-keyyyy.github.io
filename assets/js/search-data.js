@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-materials",
           title: "materials",
-          description: "A growing collection of your cool projects.",
+          description: "A collection for learning materials. Most are related to CS currently.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/materials/";
@@ -429,8 +429,8 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-1/";
-            },},{id: "materials-effectivejava-en",
-          title: 'EffectiveJava_en',
+            },},{id: "materials-effective-java-en",
+          title: 'Effective Java_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-10/";
@@ -444,13 +444,13 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-12/";
-            },},{id: "materials-headfirstjava-cn",
-          title: 'HeadFirstJava_cn',
+            },},{id: "materials-head-first-java-cn",
+          title: 'Head First Java_cn',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-13/";
-            },},{id: "materials-headfirstpython-cn",
-          title: 'HeadFirstPython_cn',
+            },},{id: "materials-head-first-python-cn",
+          title: 'Head First Python_cn',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-14/";
@@ -459,8 +459,8 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-15/";
-            },},{id: "materials-linuxkerneldevelopment-en",
-          title: 'LinuxKernelDevelopment_en',
+            },},{id: "materials-linux-kernel-development-en",
+          title: 'Linux Kernel Development_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-16/";
@@ -469,18 +469,18 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-17/";
-            },},{id: "materials-masteringspring-cn",
-          title: 'MasteringSpring_cn',
+            },},{id: "materials-mastering-spring-cn",
+          title: 'Mastering Spring_cn',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-18/";
-            },},{id: "materials-modernc-design-cn",
-          title: 'ModernC++Design_cn',
+            },},{id: "materials-modern-c-design-cn",
+          title: 'Modern C++ Design_cn',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-19/";
-            },},{id: "materials-code-thehiddenlanguageofcomputerhardwareandsoftware-en",
-          title: 'Code-TheHiddenLanguageofComputerHardwareandSoftware_en',
+            },},{id: "materials-code-the-hidden-language-of-computer-hardware-and-software-en",
+          title: 'Code-The Hidden Language of Computer Hardware and Software_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-2/";
@@ -489,8 +489,8 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-20/";
-            },},{id: "materials-numpybasics-en",
-          title: 'NumPyBasics_en',
+            },},{id: "materials-numpy-basics-en",
+          title: 'NumPy Basics_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-21/";
@@ -499,18 +499,18 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-22/";
-            },},{id: "materials-spring5recipes-en",
-          title: 'Spring5Recipes_en',
+            },},{id: "materials-spring5-recipes-en",
+          title: 'Spring5 Recipes_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-23/";
             },},{id: "materials-computational-complexity-a-modern-approach-en",
-          title: 'Computational Complexity_ A Modern Approach_en',
+          title: 'Computational Complexity-A Modern Approach_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-3/";
             },},{id: "materials-computer-networks-a-systems-approach-en",
-          title: 'Computer Networks, A Systems Approach_en',
+          title: 'Computer Networks, A Systems Approach_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-4/";
@@ -519,13 +519,13 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-5/";
-            },},{id: "materials-databasesystemconcepts-en",
-          title: 'DatabaseSystemConcepts_en',
+            },},{id: "materials-database-system-concepts-en",
+          title: 'Database System Concepts_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-6/";
             },},{id: "materials-deep-learning-with-python-en",
-          title: 'Deep_Learning_With_Python_en',
+          title: 'Deep Learning With Python_en',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-7/";
@@ -534,8 +534,8 @@ ninja.data = [{
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-8/";
-            },},{id: "materials-effectivejava-cn",
-          title: 'EffectiveJava_cn',
+            },},{id: "materials-effective-java-cn",
+          title: 'Effective Java_cn',
           description: "PDF of materials.",
           section: "Materials",handler: () => {
               window.location.href = "/materials/material-9/";
@@ -551,7 +551,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
             },},{id: "news-new-section-added-materials",
-          title: 'New section added: Materials',
+          title: 'New section added: materials',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
