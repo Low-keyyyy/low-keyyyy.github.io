@@ -4,7 +4,7 @@ title: The Probability Lifesaver
 description: A study note about the book, which is the Princeton Textbook.
 tags: distill formatting
 giscus_comments: true
-date: 2024-02-25
+date: 2025-02-24
 featured: true
 mermaid:
   enabled: true
