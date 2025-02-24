@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -136,6 +129,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2024/pseudocode/";
+        
+      },
+    },{id: "post-the-probability-lifesaver",
+      
+        title: "The Probability Lifesaver",
+      
+      description: "A study note about the book, which is the Princeton Textbook.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/probability/";
         
       },
     },{id: "post-a-post-with-code-diff",
