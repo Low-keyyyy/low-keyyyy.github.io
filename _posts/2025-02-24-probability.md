@@ -390,7 +390,7 @@ $$
 
 那么有：
 $$
-f_{Z}(z) = \int_{t_{1}}^{t_{2}} f_{X}(t)f_{Y}(h(t,z))| \frac{\part h(t,z)}{\part z} |dt
+f_{Z}(z) = \int_{t_{1}}^{t_{2}} f_{X}(t)f_{Y}(h(t,z))| \frac{\partial h(t,z)}{\partial z} |dt
 $$
 其中积分范围 $$(t_{1},t_{2})$$ 取决于具体的函数限制.
 
@@ -404,7 +404,7 @@ $$
 $$
 其中 $$f$$ 和 $$g$$ 是关于 $$\alpha$$ 的可微函数. 如果 $$f$$ 退化到足以保证求和与求微分的次序可以交换, 那么：
 $$
-\sum_{n=n_{min}}^{n_{max}} \frac{\part f(n;\alpha,\beta,\cdots,\omega)}{\part \alpha} = \frac{\part g(\alpha,\beta,\cdots,\omega)}{\part \alpha}
+\sum_{n=n_{min}}^{n_{max}} \frac{\partial f(n;\alpha,\beta,\cdots,\omega)}{\partial \alpha} = \frac{\partial g(\alpha,\beta,\cdots,\omega)}{\partial \alpha}
 $$
 
 ### 斯特林公式
