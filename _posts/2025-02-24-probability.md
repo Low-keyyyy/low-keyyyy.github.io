@@ -74,7 +74,7 @@ _styles: >
 
 样本空间 $$\varOmega$$ 的一个划分 $$\mathcal{P}$$ 就是满足下列条件的可数个集合 $$\{A_{1},A_{2},\cdots \}$$.
 
-(1) 如果 $$i \ne j$$, 那么 $$A_{i}\cap A_{j} = \empty$$.
+(1) 如果 $$i \ne j$$, 那么 $$A_{i}\cap A_{j} = \emptyset$$.
 
 (2) 全体 $$A_{i}$$ 的并就是整个样本空间： $$\cup_{i}A_{i} = \varOmega$$.
 
