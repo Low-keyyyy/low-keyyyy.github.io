@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Medical
-description: An online test result recognition and analysis assistant and a health AI intelligent agent.
+description: An online test result recognition and analysis assistant.
 img: assets/img/medical.png
 importance: 2
 category: website
