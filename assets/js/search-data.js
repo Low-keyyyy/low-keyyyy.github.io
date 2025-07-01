@@ -566,7 +566,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-medical",
           title: 'Medical',
-          description: "An online test result recognition and analysis assistant and a health AI intelligent agent.",
+          description: "An online test result recognition and analysis assistant.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
