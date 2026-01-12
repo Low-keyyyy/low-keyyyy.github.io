@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+- 2025 BYD Scholarship
 - 2025 The champion of the "Tianchi Cup" AI Innovation Competition of Nanjing University
 - 2025 Jiangsu Province Outstanding College Student International Exchange Scholarship
 - 2025 The Honorable Prize of the Mathematical Contest in Modeling for American College Students
@@ -18,3 +19,4 @@ nav_order: 6
 - 2024 Outstanding Student of Nanjing University
 - 2024 Outstanding Communist Youth League Member of the Freshman College of Nanjing University
 - 2024 Outstanding Student of the Freshman College of Nanjing University
+- 2021 First Prize, China National Olympiad in Informatics in Provinces

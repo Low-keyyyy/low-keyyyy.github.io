@@ -107,9 +107,15 @@ jobs:
           npm install -g purgecss
           purgecss -c purgecss.config.js
 
-      - name: Deploy 🚀
+      - name: Deploy to Server 🚀
         if: github.event_name != 'pull_request'
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: appleboy/scp-action@v0.1.7
         with:
-          folder: _site
+          host: ${{ secrets.SERVER_HOST }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SERVER_SSH_KEY }}
+          source: "_site/*"
+          target: ${{ secrets.SERVER_PATH }}
+          strip_components: 1
+
           
