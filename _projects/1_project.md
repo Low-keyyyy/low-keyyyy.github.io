@@ -10,7 +10,7 @@ related_publications: False
 
 This online bookstore and management system is a group cooperation assignment for a course at Nanjing University School of Software. The frontend adopts the Vue3 framework, while the backend uses the Springboot framework. The development and deployment are separated for the frontend and backend. 
 
-> You can visit the website at <a href="http://tomato-mall.lowkeyyyy.cn">http://tomato-mall.lowkeyyyy.cn</a>.
+> You can visit the website at <a href="https://tomato-mall.lowkeyyyy.cn">https://tomato-mall.lowkeyyyy.cn</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

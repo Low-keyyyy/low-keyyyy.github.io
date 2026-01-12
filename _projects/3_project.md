@@ -33,7 +33,7 @@ Here's a glimpse of the SmartEssays experience: a clean, welcoming homepage and 
 
 ### Live Demo
 
-Our website is deployed at [http://smartessays.lowkeyyyy.cn](http://smartessays.lowkeyyyy.cn). Dive in and experience the future of research with our demo account:
+Our website is deployed at [https://smartessays.lowkeyyyy.cn](https://smartessays.lowkeyyyy.cn). Dive in and experience the future of research with our demo account:
 
 *   **Username**: `demo@smartessays.com`
 *   **Password**: `thisisademo`

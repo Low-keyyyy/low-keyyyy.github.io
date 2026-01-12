@@ -10,7 +10,7 @@ related_publications: False
 
 This is a work for the 2025 Nanjing University Tianchi Cup AI Innovation Competition. Our team has developed a platform that can recognize lab reports online and provide analysis results, hoping to solve the trouble of many people not being able to understand lab reports. Finally we won the champion.
 
-> You can visit the website at <a href="http://medical.lowkeyyyy.cn">http://medical.lowkeyyyy.cn</a>.
+> You can visit the website at <a href="https://medical.lowkeyyyy.cn">https://medical.lowkeyyyy.cn</a>.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
