@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SmartEssays
-description: A gorgeous AI-powered research companion that turns academic essays into conversations, insights, and understanding.
+description: A gorgeous AI-powered research companion.
 img: assets/img/smartessays.png
 importance: 3
 category: website
